@@ -1,0 +1,3 @@
+module cajafuerte {
+    requires junit;
+}
